@@ -1,5 +1,5 @@
 # from methods_help import method_help
-from functions import welcome, greet
+from functions import welcome, greet, squared
 # from returnStuff import returnS
 
 # method_help()
@@ -10,4 +10,6 @@ welcome("celi")
 # final = num_dividedFrom_add_numbers(45, added)
 # print(final)
 greet()
+square = squared(8)
+print(square)
 # returnS()

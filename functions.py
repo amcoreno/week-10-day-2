@@ -42,5 +42,6 @@ def welcome(name):
 
 # You should only define the function and create the variable, you should not call the function afterwards.
 
-def square(num):
-  
+def squared(num):
+  print(num)
+  return num **2
